@@ -3,3 +3,4 @@ Learning GIT !
 HEhaha`
 WE ARE GOING TO RECORD SOME GIT COMMANDS!
 user 01 was updated!
+user 02 was updated!
