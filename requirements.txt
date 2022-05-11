@@ -1,2 +1,4 @@
-python=3.9
-selenium
+python=3.8
+pytest=3.3.3
+Django
+redis
